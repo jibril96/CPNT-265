@@ -40,3 +40,8 @@
 * With Tony's excellent explanation, I was able to follow step-by-step directions on the https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog to create footer and header nav layouts that will apply to all pages on the nav tag in `src` `routes` file `layout`.
 
 * I used Figma to develop a wireframe to illustrate how the website works so that clients could grasp it better.
+
+# Wireframe
+
+![265 Wireframe](https://user-images.githubusercontent.com/97467330/165193247-d9358f50-698d-42a6-89b4-1d7558c45296.png)
+
